@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>엄청 부자인 사나, 부인과 함께 국적기 타고 하와이 여행</title>
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #333;
+            font-family: 'Noto Sans KR', sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #003366;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        article {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto 20px;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>엄청 부자인 사나, 부인과 함께 국적기 타고 하와이 여행</h1>
+    </header>
+    <article>
+        <h2>서울, 2024년 6월 7일</h2>
+        <p><strong>기자: 깅달지</strong></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Korean_Air_Boeing_747-8_HL7637_in_2015_%28cropped%29.jpg/1024px-Korean_Air_Boeing_747-8_HL7637_in_2015_%28cropped%29.jpg" alt="대한항공">
+        <p>엄청난 부자인 사나 씨가 최근 부인 랄라 씨와 함께 국적기 대한항공을 타고 하와이로 여행을 떠났다는 소식이 전해졌다. 사나 씨는 매경에서 근무하고 있지만, 그의 막대한 재산의 출처는 알려지지 않았다. 이번 하와이 여행은 사나 씨와 랄라 씨가 여유로운 휴가를 보내기 위해 계획되었다.</p>
+        <p>사나 씨와 그의 부인 랄라 씨는 6월 1일 인천국제공항에서 대한민국의 국적기인 대한항공을 타고 하와이 호놀룰루로 향했다. 이번 여행은 부부가 일상에서 벗어나 여유를 찾기 위해 준비한 것으로 알려졌다.</p>
+        <p>공항에서 사나 씨와 랄라 씨는 편안한 캐주얼 복장에 선글라스를 착용한 모습으로 사람들의 시선을 끌었다. 사나 씨는 간단한 인터뷰에서 "하와이는 항상 가보고 싶었던 곳 중 하나예요. 이번 기회에 여유롭게 쉬고 다양한 활동을 즐기고 싶어요."라고 말했다.</p>
+        <p>사나 씨는 대머리임에도 불구하고 자신감 넘치는 모습으로 많은 사람들의 주목을 받았다. 어디서 재산을 축적했는지는 알려지지 않았지만, 그의 재산은 수십억 원에 달하는 것으로 알려져 있다. 이는 그와 그의 부인이 하와이와 같은 고급 여행지를 자주 방문할 수 있게 해준다.</p>
+        <p>하와이에서 사나 씨와 랄라 씨는 아름다운 해변에서 수영과 서핑을 즐기고, 현지의 맛있는 음식을 맛보며 휴식을 취하고 있다. 또한, 사나 씨는 평소 애객(애니메이션 캐릭터 수집)을 좋아하여, 하와이에서도 현지의 애니메이션 캐릭터 상품을 수집하고 있다. 그는 자신의 일상을 기록하며 하와이에서의 특별한 순간들을 즐기고 있다.</p>
+        <p>한편, 사나 씨는 하와이에서의 일상을 마치고 돌아온 후, 다시 매경에서 열심히 일하며 일상으로 돌아올 예정이다. 그의 앞으로의 행보가 기대된다.</p>
+    </article>
+    <footer>
+        <p>&copy; 2024 매일경제. All rights reserved.</p>
+    </footer>
+</body>
+</html>
